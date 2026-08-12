@@ -50,11 +50,11 @@
 ## 📌 Featured Projects
 
 ### 🌾 Work Tracker Platform
--Task management and work tracking system
--User authentication and task management
--Create, update, and delete tasks
--Track task status and deadlines
--MySQL database for storing users and tasks
+- Task management and work tracking system
+- User authentication and task management
+- Create, update, and delete tasks
+- Track task status and deadlines
+- MySQL database for storing users and tasks
 
 **Tech:** PHP, MySQL, HTML, CSS, JavaScript
 
