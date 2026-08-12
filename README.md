@@ -14,7 +14,7 @@
 - 🌱 Currently learning **Advanced MERN Stack & System Design**
 - 🚀 Passionate about building responsive and scalable web applications
 - 🤝 Open to internships and freelance opportunities
-- 📫 Reach me at **your.email@example.com**
+- 📫 Reach me at **vinodshahapurkar932@gmail.com**
 
 ---
 
@@ -49,25 +49,14 @@
 
 ## 📌 Featured Projects
 
-### 📄 Document Digitalization System
-- Secure document management system
-- Department-wise document storage
-- Admin & User Dashboard
-- Upload & Download documents
+### 🌾 Work Tracker Platform
+-Task management and work tracking system
+-User authentication and task management
+-Create, update, and delete tasks
+-Track task status and deadlines
+-MySQL database for storing users and tasks
 
-**Tech:** HTML, CSS, JavaScript, PHP, MySQL
-
----
-
-### 🎬 Movie Search App
-- Search movies instantly
-- MERN Stack application
-- Responsive UI
-- REST API Integration
-
-**Tech:** React, Node.js, Express.js, MongoDB
-
----
+**Tech:** PHP, MySQL, HTML, CSS, JavaScript
 
 ### 🌾 Farm Equipment Booking Platform
 - Equipment booking system
