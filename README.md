@@ -27,7 +27,7 @@
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,python" />
 </p>
 
 ### Database
