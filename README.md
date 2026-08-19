@@ -11,7 +11,7 @@
 
 - 🎓 MCA Student
 - 💻 Full Stack MERN Developer
-- 🌱 Currently learning **Advanced MERN Stack & System Design**
+- 🌱 Currently learning **Advanced MERN Stack **
 - 🚀 Passionate about building responsive and scalable web applications
 - 🤝 Open to internships and freelance opportunities
 - 📫 Reach me at **vinodshahapurkar932@gmail.com**
