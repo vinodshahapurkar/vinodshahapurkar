@@ -14,7 +14,7 @@
 - 🌱 Currently learning **Advanced Java **
 - 🚀 Passionate about building responsive and scalable web applications
 - 🤝 Open to internships and freelance opportunities
-- 📫 Reach me at **vinodshahapurkar932@gmail.com**
+- 📫 Reach me at **vinodshahapurkar2003@gmail.com**
 
 ---
 
