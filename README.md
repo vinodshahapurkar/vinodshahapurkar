@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinod Shahapurkar</h1>
-<h3 align="center">🚀 Full Stack MERN Developer | MCA Student | Passionate About Building Web Applications</h3>
+<h3 align="center">🚀 Full Stack MERN Developer|Java Developer | MCA Student | Passionate About Building Web Applications</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+Express.js;MongoDB+%7C+JavaScript;Always+Learning+New+Technologies" />
@@ -10,8 +10,8 @@
 ## 👨‍💻 About Me
 
 - 🎓 MCA Student
-- 💻 Full Stack MERN Developer
-- 🌱 Currently learning **Advanced MERN Stack **
+- 💻 Java Full Stack Developer
+- 🌱 Currently learning **Advanced Java **
 - 🚀 Passionate about building responsive and scalable web applications
 - 🤝 Open to internships and freelance opportunities
 - 📫 Reach me at **vinodshahapurkar932@gmail.com**
